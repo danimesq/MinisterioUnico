@@ -1,0 +1,8 @@
+chown -h 1000:1000 './.folderstamp'
+chmod 0777 './.folderstamp'
+/usr/bin/touch -hcmd "2022-12-07 18:17:38.3593529000 -0300" './.folderstamp'
+/usr/bin/touch -hcad "2022-12-07 18:17:38.4627449000 -0300" './.folderstamp'
+chown -h 1000:1000 './Sobre.txt'
+chmod 0777 './Sobre.txt'
+/usr/bin/touch -hcmd "2022-12-07 17:53:58.0032724000 -0300" './Sobre.txt'
+/usr/bin/touch -hcad "2022-12-07 17:54:08.8589189000 -0300" './Sobre.txt'
